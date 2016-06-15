@@ -1,0 +1,6 @@
+{
+  "name": "torth",
+  "tagline": "forth programming language",
+  "body": "### About torth\r\ntorth is a experimental programming language, going to be designed to check some conceptions, like for example those:\r\n\r\n- colour usage instead or in combination with some syntax elements\r\n- building words from words parts\r\n- delegation of computations to different execution instances\r\n- rich and easily expandable type system\r\n- non-english default words for better divide words into parts, for example Esperanto\r\n- working with multiple IO devices with simple and good looking syntax\r\n- being very portable, usable an devices in range from 8-bit microcontrollers to powerful server machines\r\n\r\n### Authors and Contributors\r\nCurrently author of torth is @Renha. Work is based on Chuck Moore's conceptions, but code isn't.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
